@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+
+project(process_manager CXX)
+add_library(process_manager process_manager.cpp)
+add_executable(test_process_manager test_process_manager.cpp)
+target_link_libraries(test_process_manager process_manager)
