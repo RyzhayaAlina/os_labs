@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Repository update (git pull)..."
+echo "Repository updates (git pull)..."
 git pull
