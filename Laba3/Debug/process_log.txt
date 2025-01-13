@@ -1,0 +1,47 @@
+2025-1-13 14:1:18 Process started with PID: 31532
+2025-1-13 14:1:19 PID: 31532 Counter: 4
+2025-1-13 14:1:20 PID: 31532 Counter: 7
+2025-1-13 14:1:21 Spawn new process
+2025-1-13 14:1:21 Child PID: 31736 spawned by Parent PID: 31532
+2025-1-13 14:1:21 Process started with PID: 31736
+2025-1-13 14:1:21 process_function
+2025-1-13 14:1:21 Child PID: 31736 incremented counter by 10 and exiting.
+2025-1-13 14:1:21 Child PID: 22888 spawned by Parent PID: 31532
+2025-1-13 14:1:21 Process started with PID: 22888
+2025-1-13 14:1:21 process_function
+2025-1-13 14:1:21 Child PID: 22888 doubled counter and waiting to restore.
+2025-1-13 14:1:21 PID: 31532 Counter: 40
+2025-1-13 14:1:22 PID: 31532 Counter: 44
+2025-1-13 14:1:23 PID: 31532 Counter: 23
+2025-1-13 14:1:24 Counter set to: 1
+2025-1-13 14:1:24 PID: 31532 Counter: 1
+2025-1-13 14:1:25 PID: 31532 Counter: 4
+2025-1-13 14:1:26 Spawn new process
+2025-1-13 14:1:26 Child PID: 8180 spawned by Parent PID: 31532
+2025-1-13 14:1:26 Process started with PID: 8180
+2025-1-13 14:1:26 process_function
+2025-1-13 14:1:26 Child PID: 8180 incremented counter by 10 and exiting.
+2025-1-13 14:1:26 Child PID: 24772 spawned by Parent PID: 31532
+2025-1-13 14:1:26 Process started with PID: 24772
+2025-1-13 14:1:26 process_function
+2025-1-13 14:1:26 Child PID: 24772 doubled counter and waiting to restore.
+2025-1-13 14:1:26 PID: 31532 Counter: 35
+2025-1-13 14:1:27 PID: 31532 Counter: 38
+2025-1-13 14:1:28 PID: 31532 Counter: 20
+2025-1-13 14:1:29 Process started with PID: 29316
+2025-1-13 14:1:29 PID: 31532 Counter: 24
+2025-1-13 14:1:30 PID: 31532 Counter: 31
+2025-1-13 14:1:31 Spawn new process
+2025-1-13 14:1:31 Child PID: 29720 spawned by Parent PID: 31532
+2025-1-13 14:1:31 Process started with PID: 29720
+2025-1-13 14:1:31 process_function
+2025-1-13 14:1:31 Child PID: 29720 incremented counter by 10 and exiting.
+2025-1-13 14:1:31 Child PID: 30520 spawned by Parent PID: 31532
+2025-1-13 14:1:31 Process started with PID: 30520
+2025-1-13 14:1:31 process_function
+2025-1-13 14:1:31 Child PID: 30520 doubled counter and waiting to restore.
+2025-1-13 14:1:31 PID: 31532 Counter: 96
+2025-1-13 14:1:32 PID: 31532 Counter: 102
+2025-1-13 14:1:32 Counter set to: 3
+2025-1-13 14:1:33 PID: 31532 Counter: 3
+2025-1-13 14:1:34 PID: 31532 Counter: 10
