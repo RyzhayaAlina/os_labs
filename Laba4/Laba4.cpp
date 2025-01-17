@@ -60,7 +60,7 @@ time_t systemTimeToTimeT(const SYSTEMTIME &systemTime) {
 // Helper function to configure the serial port
 #ifdef _WIN32
 HANDLE configureSerialPort(const std::string &portName) {
-    std::wstring wPortName(portName.begin(), portName.end());
+    std::wstring wPortName(portName.begin(), portName.end());// приводим строк к wstring потому что иначе функция не работает
     HANDLE hSerial = CreateFile(wPortName.c_str(), GENERIC_READ | GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, NULL);
     if (hSerial == INVALID_HANDLE_VALUE) {
         std::cerr << "Error opening serial port" << std::endl;

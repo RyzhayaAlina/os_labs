@@ -197,8 +197,8 @@ void master_process(pid_t pid) {
 #endif
         if (is_master) {
             log("Spawn new process");
-            spawn_process(pid, "increment_by_10");
-            spawn_process(pid, "double_and_restore");
+            spawn_process(pid, "increment_by_10"); // процесс увелечения на 10
+            spawn_process(pid, "double_and_restore"); // процесс умножения а потом деления 
         }
     }
 }
